@@ -41,3 +41,25 @@ When I have a new idea, I first do some preliminary research to assess its feasi
 What challenges have you encountered in pursuing a particular goal? How did you overcome those challenges?
 
 One challenge was integrating different parts of our project as we had different levels of expertise. To overcome this, I organised a series of knowledge sharing sessions where we could learn from each other. This not only helped us solve the problem integration issue but also strengthened the overall skills of our team.
+
+Name: YUXUAN LIU
+
+What skills do you think you are best at? Why?
+
+My best skill is that I am very good at design, designing web pages or UI design, etc. I am very good at finding suitable pictures for long-term website needs, etc.
+
+How did you contribute to the team?
+
+For our team, the main contribution I can make is classifying materials and final integration.
+
+How do you manage your time and tasks?
+
+I will start working as soon as I receive the task. I don't like to hold back other members of the team, and I have a strong sense of time. I think that under my supervision, the tasks of our team will be completed in time.
+
+When you have a new idea or suggestion, how do you share it with the team?
+
+First, our group will create a group group on social software. When we have ideas, we will discuss and filter them, and finally select them through voting or other methods.
+
+What challenges have you faced in pursuing a certain goal, and how have you overcome them?
+
+I think sufficient communication can solve most problems. After communication, everyone comes up with their own solutions, and then we can test and finally find a solution.
