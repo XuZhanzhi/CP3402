@@ -1,0 +1,3 @@
+WordPress subthemes are a concept in WordPress theme development that allows me to customize an existing theme without affecting the code of the original theme. Subthemes are extensions of the theme through which I can easily modify the look and function of the theme without having to directly edit the original file of the theme.
+
+When the parent theme is updated, the child theme's custom code and styles are not lost. Subthemes make customization of themes clearer and more maintainable because custom code can be centrally managed. You can easily switch between different subthemes to achieve different looks and functions without changing the core code of the theme.
